@@ -1,4 +1,4 @@
-FyodorDostoyewski/README.md
+
 👋 Cześć! 👋
 
 Mam na imię Mateusz i planuje zostać junior Front-end developerem.
