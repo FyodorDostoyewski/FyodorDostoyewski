@@ -1,23 +1,23 @@
 
-👋 Cześć! 👋
+👋 Hello World! 👋
 
-Mam na imię Mateusz i planuje zostać junior Front-end developerem.
+My name is Mateusz and I want to become a junior Front-end developer.
 
 Tech stack:
 
-🌝 - Front-end ( ~ 5 miesięcy nauki )
+🌝 - Front-end ( ~ 5 months of study )
 
 ✔ - HTML & CSS & SCSS + bootstrap ✔ - JavaScript ES6+ ✔ - GIT/Github ✔ - Task Runner ✔ - Redux ✔ - AJAX API
 
-W trakcie nauki:
+During studying:
 
 ✎ - React 
 
-🌝 - Angielski - poziom b1 + rozwijam go po przez praktykę, czyli rozmowy ze znajomymi z całej Europy oraz gier ;)
+🌝 - English - level b1 + I develop it through practice, i.e. conversations with friends from all over Europe and games ;)
 
-🌟 Dodatkowe umiejętności:
+🌟 Additional skills:
 
-✓ - logistyczne podejście do tematu,
-✓ - eksploatacja, naprawa i składanie komputerów,
-✓ - umiejętność logicznego myślenia oraz zarządzania czasem,
-✓ - umiejętność użytkowania systemów logistycznych ERP/ ERP II,
+✓ - logistic approach to the subject,
+✓ - operation, repair and assembly of computer and network equipment,
+✓ - logical thinking and time management skills,
+✓ - ability to use systems ERP/ ERP II,
